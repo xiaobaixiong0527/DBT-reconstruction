@@ -4,4 +4,6 @@ The original reconstructed image size is 1920*2304*100 (double in MATLAB), and t
 
 In terms of research data, we provide one set of simulated data and two sets of human breast data. The two sets of data consists of human breast data and simulated surgical needle data or simulated calcification data. We simulate as many high-density object morphologies as possible to prove the effectiveness of the algorithm.
 
+reconstuct data is under master branch
+
 If you have any questions, you can contact us through enxiangshen@smail.nju.edu.cn
